@@ -6,7 +6,8 @@ no build step, no package manager.
 
 **Live: [montehomedecor.pages.dev](https://montehomedecor.pages.dev)**
 
-![Home](docs/hero.jpg)
+<img width="1908" height="945" alt="image" src="https://github.com/user-attachments/assets/c8f097a9-216b-471a-9589-174a04c3e9d5" />
+
 
 ## Stack
 
